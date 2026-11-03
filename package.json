@@ -1,0 +1,12 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora Web e Terminal",
+  "main": "js/terminal.js",
+  "scripts": {
+    "terminal": "node js/terminal.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
